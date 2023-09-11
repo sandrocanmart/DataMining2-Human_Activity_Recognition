@@ -12,7 +12,7 @@ personal research perspective (from choosing a subset of variables to
 the class to predict…). You are welcome in creating new variables and 
 performing all the pre-processing steps the dataset needs.
 #### Outliers
-1. - Identify the top 1% outliers: adopt at least three different methods 
+1. Identify the top 1% outliers: adopt at least three different methods 
 from different families (e.g., density-based, angle-based…) and 
 compare the results. 
 2. Visualize the outliers in a 2 or 3d scatter plot using at least one 
@@ -40,9 +40,9 @@ other classification methods analyzed during the course: Logistic Regression,
 Support Vector Machines, Neural Networks, Ensemble Methods, Gradient Boosting 
 Machines.
 2. Always perform hyper-parameter tuning phases and justify your choices (which are the best parameters? which parameters did you test and why?).
-- Evaluate each classifier with the techniques presented in DM1: accuracy (or 
+3. Evaluate each classifier with the techniques presented in DM1: accuracy (or 
 precision, recall, F1-score etc), ROC curve (or lift, precision-recall etc). 
-3. Besides the numerical evaluation draw your conclusions about the various 
+4. Besides the numerical evaluation draw your conclusions about the various 
 classifiers (e.g. for Neural Networks: what are the parameter sets or the 
 convergence criteria which avoid overfitting? For Ensemble classifiers how the 
 number of base models impact the classification performance? What is revealing 
