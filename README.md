@@ -1,5 +1,6 @@
 # DataMining2-Human_Activity_Recognition
- Project for the exam of Data Mining - Part II Advanced Topics. Dataset available in (https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones)
+ Project for the exam of Data Mining - Part II Advanced Topics. Dataset available in (https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones).
+ The idea is to analyze the data in order to compriend the way of classify the action of the volunteer. The final work is summariezed in a written report, readeable in the repository. 
 
 
 
