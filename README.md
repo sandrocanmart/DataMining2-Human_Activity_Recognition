@@ -3,7 +3,7 @@
 
 
 
-# Project Task 1 
+## Project Task 1 
 ### Data Understanding and Preparation
 1. Explore and prepare the dataset. You are allowed to take inspiration 
 from existing notebooks you can find online and figure out your 
