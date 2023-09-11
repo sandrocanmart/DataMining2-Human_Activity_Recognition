@@ -4,13 +4,13 @@
 
 
 ## Project Task 1 
-### Data Understanding and Preparation
+#### Data Understanding and Preparation
 1. Explore and prepare the dataset. You are allowed to take inspiration 
 from existing notebooks you can find online and figure out your 
 personal research perspective (from choosing a subset of variables to 
 the class to predict…). You are welcome in creating new variables and 
 performing all the pre-processing steps the dataset needs.
-### Outliers
+#### Outliers
 1. - Identify the top 1% outliers: adopt at least three different methods 
 from different families (e.g., density-based, angle-based…) and 
 compare the results. 
@@ -21,7 +21,7 @@ the dataset or by treating the anomalous variables as missing values
 and employing replacement techniques. In this second case, you 
 should check that the outliers are not outliers anymore. Justify your 
 choices in every step.
-### Imbalanced Learning
+#### Imbalanced Learning
 1. Define one simple unbalanced classification tasks and solve it with 
 Decision Tree or KNN. 
 2. If the dataset is already unbalanced leave it as it is, otherwise turns 
